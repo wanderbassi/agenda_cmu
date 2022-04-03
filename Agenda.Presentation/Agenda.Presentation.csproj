@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Windows.Extensions" Version="6.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Agenda.Model\Agenda.Model.csproj" />
+    <ProjectReference Include="..\Agenda.Repository\Agenda.DB.csproj" />
+    <ProjectReference Include="..\Agenda.Service\Agenda.Service.csproj" />
+  </ItemGroup>
+
+</Project>

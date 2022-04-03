@@ -1,0 +1,19 @@
+D:\Downloads\Agenda\Agenda.Model\bin\Debug\netcoreapp3.1\Agenda.Model.deps.json
+D:\Downloads\Agenda\Agenda.Model\bin\Debug\netcoreapp3.1\Agenda.Model.dll
+D:\Downloads\Agenda\Agenda.Model\bin\Debug\netcoreapp3.1\Agenda.Model.pdb
+D:\Downloads\Agenda\Agenda.Model\obj\Debug\netcoreapp3.1\Agenda.Model.csproj.AssemblyReference.cache
+D:\Downloads\Agenda\Agenda.Model\obj\Debug\netcoreapp3.1\Agenda.Model.AssemblyInfoInputs.cache
+D:\Downloads\Agenda\Agenda.Model\obj\Debug\netcoreapp3.1\Agenda.Model.AssemblyInfo.cs
+D:\Downloads\Agenda\Agenda.Model\obj\Debug\netcoreapp3.1\Agenda.Model.csproj.CoreCompileInputs.cache
+D:\Downloads\Agenda\Agenda.Model\obj\Debug\netcoreapp3.1\Agenda.Model.dll
+D:\Downloads\Agenda\Agenda.Model\obj\Debug\netcoreapp3.1\Agenda.Model.pdb
+C:\Users\User\Desktop\Projeto_CMU\Nova pasta (2)\Agenda\Agenda.Model\bin\Debug\netcoreapp3.1\Agenda.Model.deps.json
+C:\Users\User\Desktop\Projeto_CMU\Nova pasta (2)\Agenda\Agenda.Model\bin\Debug\netcoreapp3.1\Agenda.Model.dll
+C:\Users\User\Desktop\Projeto_CMU\Nova pasta (2)\Agenda\Agenda.Model\bin\Debug\netcoreapp3.1\Agenda.Model.pdb
+C:\Users\User\Desktop\Projeto_CMU\Nova pasta (2)\Agenda\Agenda.Model\obj\Debug\netcoreapp3.1\Agenda.Model.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Projeto_CMU\Nova pasta (2)\Agenda\Agenda.Model\obj\Debug\netcoreapp3.1\Agenda.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Projeto_CMU\Nova pasta (2)\Agenda\Agenda.Model\obj\Debug\netcoreapp3.1\Agenda.Model.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Projeto_CMU\Nova pasta (2)\Agenda\Agenda.Model\obj\Debug\netcoreapp3.1\Agenda.Model.AssemblyInfo.cs
+C:\Users\User\Desktop\Projeto_CMU\Nova pasta (2)\Agenda\Agenda.Model\obj\Debug\netcoreapp3.1\Agenda.Model.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Projeto_CMU\Nova pasta (2)\Agenda\Agenda.Model\obj\Debug\netcoreapp3.1\Agenda.Model.dll
+C:\Users\User\Desktop\Projeto_CMU\Nova pasta (2)\Agenda\Agenda.Model\obj\Debug\netcoreapp3.1\Agenda.Model.pdb

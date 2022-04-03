@@ -1,0 +1,62 @@
+D:\Downloads\Agenda\Agenda.Presentation\bin\Debug\netcoreapp3.1\Agenda.Presentation.exe
+D:\Downloads\Agenda\Agenda.Presentation\bin\Debug\netcoreapp3.1\Agenda.Presentation.deps.json
+D:\Downloads\Agenda\Agenda.Presentation\bin\Debug\netcoreapp3.1\Agenda.Presentation.runtimeconfig.json
+D:\Downloads\Agenda\Agenda.Presentation\bin\Debug\netcoreapp3.1\Agenda.Presentation.runtimeconfig.dev.json
+D:\Downloads\Agenda\Agenda.Presentation\bin\Debug\netcoreapp3.1\Agenda.Presentation.dll
+D:\Downloads\Agenda\Agenda.Presentation\bin\Debug\netcoreapp3.1\Agenda.Presentation.pdb
+D:\Downloads\Agenda\Agenda.Presentation\bin\Debug\netcoreapp3.1\Agenda.Model.dll
+D:\Downloads\Agenda\Agenda.Presentation\bin\Debug\netcoreapp3.1\Agenda.Repository.dll
+D:\Downloads\Agenda\Agenda.Presentation\bin\Debug\netcoreapp3.1\Agenda.Service.dll
+D:\Downloads\Agenda\Agenda.Presentation\bin\Debug\netcoreapp3.1\Agenda.Model.pdb
+D:\Downloads\Agenda\Agenda.Presentation\bin\Debug\netcoreapp3.1\Agenda.Repository.pdb
+D:\Downloads\Agenda\Agenda.Presentation\bin\Debug\netcoreapp3.1\Agenda.Service.pdb
+D:\Downloads\Agenda\Agenda.Presentation\obj\Debug\netcoreapp3.1\Agenda.Presentation.csproj.AssemblyReference.cache
+D:\Downloads\Agenda\Agenda.Presentation\obj\Debug\netcoreapp3.1\Agenda.Presentation.MainForm.resources
+D:\Downloads\Agenda\Agenda.Presentation\obj\Debug\netcoreapp3.1\Agenda.Presentation.csproj.GenerateResource.cache
+D:\Downloads\Agenda\Agenda.Presentation\obj\Debug\netcoreapp3.1\Agenda.Presentation.AssemblyInfoInputs.cache
+D:\Downloads\Agenda\Agenda.Presentation\obj\Debug\netcoreapp3.1\Agenda.Presentation.AssemblyInfo.cs
+D:\Downloads\Agenda\Agenda.Presentation\obj\Debug\netcoreapp3.1\Agenda.Presentation.csproj.CoreCompileInputs.cache
+D:\Downloads\Agenda\Agenda.Presentation\obj\Debug\netcoreapp3.1\Agenda.Presentation.csproj.CopyComplete
+D:\Downloads\Agenda\Agenda.Presentation\obj\Debug\netcoreapp3.1\Agenda.Presentation.dll
+D:\Downloads\Agenda\Agenda.Presentation\obj\Debug\netcoreapp3.1\Agenda.Presentation.pdb
+D:\Downloads\Agenda\Agenda.Presentation\obj\Debug\netcoreapp3.1\Agenda.Presentation.genruntimeconfig.cache
+C:\Users\User\Desktop\Projeto_CMU\Nova pasta (2)\Agenda\Agenda.Presentation\bin\Debug\netcoreapp3.1\Agenda.Presentation.exe
+C:\Users\User\Desktop\Projeto_CMU\Nova pasta (2)\Agenda\Agenda.Presentation\bin\Debug\netcoreapp3.1\Agenda.Presentation.deps.json
+C:\Users\User\Desktop\Projeto_CMU\Nova pasta (2)\Agenda\Agenda.Presentation\bin\Debug\netcoreapp3.1\Agenda.Presentation.runtimeconfig.json
+C:\Users\User\Desktop\Projeto_CMU\Nova pasta (2)\Agenda\Agenda.Presentation\bin\Debug\netcoreapp3.1\Agenda.Presentation.runtimeconfig.dev.json
+C:\Users\User\Desktop\Projeto_CMU\Nova pasta (2)\Agenda\Agenda.Presentation\bin\Debug\netcoreapp3.1\Agenda.Presentation.dll
+C:\Users\User\Desktop\Projeto_CMU\Nova pasta (2)\Agenda\Agenda.Presentation\bin\Debug\netcoreapp3.1\Agenda.Presentation.pdb
+C:\Users\User\Desktop\Projeto_CMU\Nova pasta (2)\Agenda\Agenda.Presentation\bin\Debug\netcoreapp3.1\Agenda.Model.dll
+C:\Users\User\Desktop\Projeto_CMU\Nova pasta (2)\Agenda\Agenda.Presentation\bin\Debug\netcoreapp3.1\Agenda.Service.dll
+C:\Users\User\Desktop\Projeto_CMU\Nova pasta (2)\Agenda\Agenda.Presentation\bin\Debug\netcoreapp3.1\Agenda.Model.pdb
+C:\Users\User\Desktop\Projeto_CMU\Nova pasta (2)\Agenda\Agenda.Presentation\bin\Debug\netcoreapp3.1\Agenda.Service.pdb
+C:\Users\User\Desktop\Projeto_CMU\Nova pasta (2)\Agenda\Agenda.Presentation\obj\Debug\netcoreapp3.1\Agenda.Presentation.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Projeto_CMU\Nova pasta (2)\Agenda\Agenda.Presentation\obj\Debug\netcoreapp3.1\Agenda.Presentation.MainForm.resources
+C:\Users\User\Desktop\Projeto_CMU\Nova pasta (2)\Agenda\Agenda.Presentation\obj\Debug\netcoreapp3.1\Agenda.Presentation.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Projeto_CMU\Nova pasta (2)\Agenda\Agenda.Presentation\obj\Debug\netcoreapp3.1\Agenda.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Projeto_CMU\Nova pasta (2)\Agenda\Agenda.Presentation\obj\Debug\netcoreapp3.1\Agenda.Presentation.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Projeto_CMU\Nova pasta (2)\Agenda\Agenda.Presentation\obj\Debug\netcoreapp3.1\Agenda.Presentation.AssemblyInfo.cs
+C:\Users\User\Desktop\Projeto_CMU\Nova pasta (2)\Agenda\Agenda.Presentation\obj\Debug\netcoreapp3.1\Agenda.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Projeto_CMU\Nova pasta (2)\Agenda\Agenda.Presentation\obj\Debug\netcoreapp3.1\Agenda.Presentation.csproj.CopyComplete
+C:\Users\User\Desktop\Projeto_CMU\Nova pasta (2)\Agenda\Agenda.Presentation\obj\Debug\netcoreapp3.1\Agenda.Presentation.dll
+C:\Users\User\Desktop\Projeto_CMU\Nova pasta (2)\Agenda\Agenda.Presentation\obj\Debug\netcoreapp3.1\Agenda.Presentation.pdb
+C:\Users\User\Desktop\Projeto_CMU\Nova pasta (2)\Agenda\Agenda.Presentation\obj\Debug\netcoreapp3.1\Agenda.Presentation.genruntimeconfig.cache
+C:\Users\User\Desktop\Projeto_CMU\Nova pasta (2)\Agenda\Agenda.Presentation\obj\Debug\netcoreapp3.1\Agenda.Presentation.cadastrocliente.resources
+C:\Users\User\Desktop\Projeto_CMU\Nova pasta (2)\Agenda\Agenda.Presentation\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\User\Desktop\Projeto_CMU\Nova pasta (2)\Agenda\Agenda.Presentation\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\User\Desktop\Projeto_CMU\Nova pasta (2)\Agenda\Agenda.Presentation\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\User\Desktop\Projeto_CMU\Nova pasta (2)\Agenda\Agenda.Presentation\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\User\Desktop\Projeto_CMU\Nova pasta (2)\Agenda\Agenda.Presentation\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\User\Desktop\Projeto_CMU\Nova pasta (2)\Agenda\Agenda.Presentation\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\User\Desktop\Projeto_CMU\Nova pasta (2)\Agenda\Agenda.Presentation\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\User\Desktop\Projeto_CMU\Nova pasta (2)\Agenda\Agenda.Presentation\bin\Debug\netcoreapp3.1\ZstdNet.dll
+C:\Users\User\Desktop\Projeto_CMU\Nova pasta (2)\Agenda\Agenda.Presentation\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Desktop\Projeto_CMU\Nova pasta (2)\Agenda\Agenda.Presentation\bin\Debug\netcoreapp3.1\Agenda.DB.dll
+C:\Users\User\Desktop\Projeto_CMU\Nova pasta (2)\Agenda\Agenda.Presentation\bin\Debug\netcoreapp3.1\Agenda.DB.pdb
+C:\Users\User\Desktop\Projeto_CMU\Nova pasta (2)\Agenda\Agenda.Presentation\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Desktop\Projeto_CMU\Nova pasta (2)\Agenda\Agenda.Presentation\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\User\Desktop\Projeto_CMU\Nova pasta (2)\Agenda\Agenda.Presentation\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\User\Desktop\Projeto_CMU\Nova pasta (2)\Agenda\Agenda.Presentation\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Desktop\Projeto_CMU\Nova pasta (2)\Agenda\Agenda.Presentation\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\User\Desktop\Projeto_CMU\Nova pasta (2)\Agenda\Agenda.Presentation\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\User\Desktop\Projeto_CMU\Nova pasta (2)\Agenda\Agenda.Presentation\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll

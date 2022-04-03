@@ -1,0 +1,25 @@
+D:\Downloads\Agenda\Agenda.Repository\bin\Debug\netcoreapp3.1\Agenda.Repository.deps.json
+D:\Downloads\Agenda\Agenda.Repository\bin\Debug\netcoreapp3.1\Agenda.Repository.dll
+D:\Downloads\Agenda\Agenda.Repository\bin\Debug\netcoreapp3.1\Agenda.Repository.pdb
+D:\Downloads\Agenda\Agenda.Repository\bin\Debug\netcoreapp3.1\Agenda.Model.dll
+D:\Downloads\Agenda\Agenda.Repository\bin\Debug\netcoreapp3.1\Agenda.Model.pdb
+D:\Downloads\Agenda\Agenda.Repository\obj\Debug\netcoreapp3.1\Agenda.Repository.csproj.AssemblyReference.cache
+D:\Downloads\Agenda\Agenda.Repository\obj\Debug\netcoreapp3.1\Agenda.Repository.AssemblyInfoInputs.cache
+D:\Downloads\Agenda\Agenda.Repository\obj\Debug\netcoreapp3.1\Agenda.Repository.AssemblyInfo.cs
+D:\Downloads\Agenda\Agenda.Repository\obj\Debug\netcoreapp3.1\Agenda.Repository.csproj.CoreCompileInputs.cache
+D:\Downloads\Agenda\Agenda.Repository\obj\Debug\netcoreapp3.1\Agenda.Repository.csproj.CopyComplete
+D:\Downloads\Agenda\Agenda.Repository\obj\Debug\netcoreapp3.1\Agenda.Repository.dll
+D:\Downloads\Agenda\Agenda.Repository\obj\Debug\netcoreapp3.1\Agenda.Repository.pdb
+C:\Users\User\Desktop\Projeto_CMU\Nova pasta (2)\Agenda\Agenda.Repository\bin\Debug\netcoreapp3.1\Agenda.Repository.deps.json
+C:\Users\User\Desktop\Projeto_CMU\Nova pasta (2)\Agenda\Agenda.Repository\bin\Debug\netcoreapp3.1\Agenda.Repository.dll
+C:\Users\User\Desktop\Projeto_CMU\Nova pasta (2)\Agenda\Agenda.Repository\bin\Debug\netcoreapp3.1\Agenda.Repository.pdb
+C:\Users\User\Desktop\Projeto_CMU\Nova pasta (2)\Agenda\Agenda.Repository\bin\Debug\netcoreapp3.1\Agenda.Model.dll
+C:\Users\User\Desktop\Projeto_CMU\Nova pasta (2)\Agenda\Agenda.Repository\bin\Debug\netcoreapp3.1\Agenda.Model.pdb
+C:\Users\User\Desktop\Projeto_CMU\Nova pasta (2)\Agenda\Agenda.Repository\obj\Debug\netcoreapp3.1\Agenda.Repository.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Projeto_CMU\Nova pasta (2)\Agenda\Agenda.Repository\obj\Debug\netcoreapp3.1\Agenda.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Projeto_CMU\Nova pasta (2)\Agenda\Agenda.Repository\obj\Debug\netcoreapp3.1\Agenda.Repository.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Projeto_CMU\Nova pasta (2)\Agenda\Agenda.Repository\obj\Debug\netcoreapp3.1\Agenda.Repository.AssemblyInfo.cs
+C:\Users\User\Desktop\Projeto_CMU\Nova pasta (2)\Agenda\Agenda.Repository\obj\Debug\netcoreapp3.1\Agenda.Repository.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Projeto_CMU\Nova pasta (2)\Agenda\Agenda.Repository\obj\Debug\netcoreapp3.1\Agenda.Repository.csproj.CopyComplete
+C:\Users\User\Desktop\Projeto_CMU\Nova pasta (2)\Agenda\Agenda.Repository\obj\Debug\netcoreapp3.1\Agenda.Repository.dll
+C:\Users\User\Desktop\Projeto_CMU\Nova pasta (2)\Agenda\Agenda.Repository\obj\Debug\netcoreapp3.1\Agenda.Repository.pdb

@@ -1,0 +1,29 @@
+D:\Downloads\Agenda\Agenda.Service\bin\Debug\netcoreapp3.1\Agenda.Service.deps.json
+D:\Downloads\Agenda\Agenda.Service\bin\Debug\netcoreapp3.1\Agenda.Service.dll
+D:\Downloads\Agenda\Agenda.Service\bin\Debug\netcoreapp3.1\Agenda.Service.pdb
+D:\Downloads\Agenda\Agenda.Service\bin\Debug\netcoreapp3.1\Agenda.Model.dll
+D:\Downloads\Agenda\Agenda.Service\bin\Debug\netcoreapp3.1\Agenda.Repository.dll
+D:\Downloads\Agenda\Agenda.Service\bin\Debug\netcoreapp3.1\Agenda.Model.pdb
+D:\Downloads\Agenda\Agenda.Service\bin\Debug\netcoreapp3.1\Agenda.Repository.pdb
+D:\Downloads\Agenda\Agenda.Service\obj\Debug\netcoreapp3.1\Agenda.Service.csproj.AssemblyReference.cache
+D:\Downloads\Agenda\Agenda.Service\obj\Debug\netcoreapp3.1\Agenda.Service.AssemblyInfoInputs.cache
+D:\Downloads\Agenda\Agenda.Service\obj\Debug\netcoreapp3.1\Agenda.Service.AssemblyInfo.cs
+D:\Downloads\Agenda\Agenda.Service\obj\Debug\netcoreapp3.1\Agenda.Service.csproj.CoreCompileInputs.cache
+D:\Downloads\Agenda\Agenda.Service\obj\Debug\netcoreapp3.1\Agenda.Service.csproj.CopyComplete
+D:\Downloads\Agenda\Agenda.Service\obj\Debug\netcoreapp3.1\Agenda.Service.dll
+D:\Downloads\Agenda\Agenda.Service\obj\Debug\netcoreapp3.1\Agenda.Service.pdb
+C:\Users\User\Desktop\Projeto_CMU\Nova pasta (2)\Agenda\Agenda.Service\bin\Debug\netcoreapp3.1\Agenda.Service.deps.json
+C:\Users\User\Desktop\Projeto_CMU\Nova pasta (2)\Agenda\Agenda.Service\bin\Debug\netcoreapp3.1\Agenda.Service.dll
+C:\Users\User\Desktop\Projeto_CMU\Nova pasta (2)\Agenda\Agenda.Service\bin\Debug\netcoreapp3.1\Agenda.Service.pdb
+C:\Users\User\Desktop\Projeto_CMU\Nova pasta (2)\Agenda\Agenda.Service\bin\Debug\netcoreapp3.1\Agenda.Model.dll
+C:\Users\User\Desktop\Projeto_CMU\Nova pasta (2)\Agenda\Agenda.Service\bin\Debug\netcoreapp3.1\Agenda.Model.pdb
+C:\Users\User\Desktop\Projeto_CMU\Nova pasta (2)\Agenda\Agenda.Service\obj\Debug\netcoreapp3.1\Agenda.Service.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Projeto_CMU\Nova pasta (2)\Agenda\Agenda.Service\obj\Debug\netcoreapp3.1\Agenda.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Projeto_CMU\Nova pasta (2)\Agenda\Agenda.Service\obj\Debug\netcoreapp3.1\Agenda.Service.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Projeto_CMU\Nova pasta (2)\Agenda\Agenda.Service\obj\Debug\netcoreapp3.1\Agenda.Service.AssemblyInfo.cs
+C:\Users\User\Desktop\Projeto_CMU\Nova pasta (2)\Agenda\Agenda.Service\obj\Debug\netcoreapp3.1\Agenda.Service.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Projeto_CMU\Nova pasta (2)\Agenda\Agenda.Service\obj\Debug\netcoreapp3.1\Agenda.Service.csproj.CopyComplete
+C:\Users\User\Desktop\Projeto_CMU\Nova pasta (2)\Agenda\Agenda.Service\obj\Debug\netcoreapp3.1\Agenda.Service.dll
+C:\Users\User\Desktop\Projeto_CMU\Nova pasta (2)\Agenda\Agenda.Service\obj\Debug\netcoreapp3.1\Agenda.Service.pdb
+C:\Users\User\Desktop\Projeto_CMU\Nova pasta (2)\Agenda\Agenda.Service\bin\Debug\netcoreapp3.1\Agenda.DB.dll
+C:\Users\User\Desktop\Projeto_CMU\Nova pasta (2)\Agenda\Agenda.Service\bin\Debug\netcoreapp3.1\Agenda.DB.pdb
